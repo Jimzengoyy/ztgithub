@@ -1,0 +1,307 @@
+{
+  "code" : "0",
+  "message" : "suss",
+  "result" : [
+    {
+      "id" : "1",
+      "img" : "http://img.jiemian.com/101/original/20150515/143166967021642700.png",
+      "isEdit" : "1",
+      "manage_img" : "http://img.jiemian.com/101/original/20150521/143218683092607600.png",
+      "name" : "商业",
+      "show" : "show_img_top",
+      "unistr" : "117",
+      "url" : "http://appapi.jiemian.com/article/cate/117.json"
+    },
+    {
+      "id" : "2",
+      "img" : "http://img.jiemian.com/101/original/20150515/143166967021642700.png",
+      "isEdit" : "1",
+      "manage_img" : "http://img.jiemian.com/101/original/20150521/143218676633320000.png",
+      "name" : "天下",
+      "show" : "show_img_top",
+      "unistr" : "118",
+      "url" : "http://appapi.jiemian.com/article/cate/118.json"
+    },
+    {
+      "id" : "3",
+      "img" : "http://img.jiemian.com/101/original/20150515/143166967021642700.png",
+      "isEdit" : "1",
+      "manage_img" : "http://img.jiemian.com/101/original/20150729/143815642154042200.png",
+      "name" : "歪楼",
+      "show" : "show_img_top",
+      "unistr" : "119",
+      "url" : "http://appapi.jiemian.com/article/cate/119.json"
+    },
+    {
+      "id" : "29",
+      "img" : "http://img.jiemian.com/101/original/20150515/143166967021642700.png",
+      "isEdit" : "1",
+      "manage_img" : "http://img.jiemian.com/static/jmw/image/app/video.jpg",
+      "name" : "视频",
+      "show" : "show_video_topone",
+      "unistr" : "timeline",
+      "url" : "http://appapi.jiemian.com/video/timeline.json"
+    },
+    {
+      "id" : "4",
+      "img" : "http://img.jiemian.com/101/original/20150515/143166967021642700.png",
+      "isEdit" : "1",
+      "manage_img" : "http://img.jiemian.com/101/original/20150521/14321866837850800.png",
+      "name" : "正午",
+      "show" : "show_img_top_intro",
+      "unistr" : "120",
+      "url" : "http://appapi.jiemian.com/article/cate/120.json"
+    },
+    {
+      "id" : "5",
+      "img" : "http://img.jiemian.com/101/original/20150515/143166967021642700.png",
+      "isEdit" : "1",
+      "manage_img" : "http://img.jiemian.com/101/original/20150521/14321867918681100.png",
+      "name" : "地产",
+      "show" : "show_img_top",
+      "unistr" : "121",
+      "url" : "http://appapi.jiemian.com/article/cate/121.json"
+    },
+    {
+      "id" : "6",
+      "img" : "http://img.jiemian.com/101/original/20150515/143166967021642700.png",
+      "isEdit" : "1",
+      "manage_img" : "http://img.jiemian.com/101/original/20150521/143218687748529200.png",
+      "name" : "JMedia",
+      "show" : "show_img_right",
+      "unistr" : "122",
+      "url" : "http://appapi.jiemian.com/article/cate/122.json"
+    },
+    {
+      "id" : "7",
+      "img" : "http://img.jiemian.com/101/original/20150515/143166967021642700.png",
+      "isEdit" : "1",
+      "manage_img" : "http://img.jiemian.com/101/original/20150521/143218662650201200.png",
+      "name" : "科技",
+      "show" : "show_img_top",
+      "unistr" : "123",
+      "url" : "http://appapi.jiemian.com/article/cate/123.json"
+    },
+    {
+      "id" : "8",
+      "img" : "http://img.jiemian.com/101/original/20150515/143166967021642700.png",
+      "isEdit" : "1",
+      "manage_img" : "http://img.jiemian.com/101/original/20150521/143218669775056000.png",
+      "name" : "热评",
+      "show" : "show_img_right",
+      "unistr" : "124",
+      "url" : "http://appapi.jiemian.com/article/cate/124.json"
+    },
+    {
+      "id" : "9",
+      "img" : "http://img.jiemian.com/101/original/20150515/143166967021642700.png",
+      "isEdit" : "1",
+      "manage_img" : "http://img.jiemian.com/101/original/20150521/143218657256942700.png",
+      "name" : "金融",
+      "show" : "show_img_right",
+      "unistr" : "137",
+      "url" : "http://appapi.jiemian.com/article/cate/137.json"
+    },
+    {
+      "id" : "10",
+      "img" : "http://img.jiemian.com/101/original/20150515/143166967021642700.png",
+      "isEdit" : "1",
+      "manage_img" : "http://img.jiemian.com/101/original/20150521/14321866688958600.png",
+      "name" : "瘾擎",
+      "show" : "show_img_top",
+      "unistr" : "138",
+      "url" : "http://appapi.jiemian.com/article/cate/138.json"
+    },
+    {
+      "id" : "11",
+      "img" : "http://img.jiemian.com/101/original/20150515/143166967021642700.png",
+      "isEdit" : "1",
+      "manage_img" : "http://img.jiemian.com/101/original/20150521/143218665371339900.png",
+      "name" : "消费",
+      "show" : "show_img_right",
+      "unistr" : "139",
+      "url" : "http://appapi.jiemian.com/article/cate/139.json"
+    },
+    {
+      "id" : "12",
+      "img" : "http://img.jiemian.com/101/original/20150515/143166967021642700.png",
+      "isEdit" : "1",
+      "manage_img" : "http://img.jiemian.com/101/original/20150521/143218689084779900.png",
+      "name" : "LEAD",
+      "show" : "show_img_top_intro",
+      "unistr" : "140",
+      "url" : "http://appapi.jiemian.com/article/cate/140.json"
+    },
+    {
+      "id" : "13",
+      "img" : "http://img.jiemian.com/101/original/20150515/143166967021642700.png",
+      "isEdit" : "1",
+      "manage_img" : "http://img.jiemian.com/101/original/20150521/143218674882121400.png",
+      "name" : "快讯",
+      "show" : "show_img_right",
+      "unistr" : "141",
+      "url" : "http://appapi.jiemian.com/article/cate/141.json"
+    },
+    {
+      "id" : "14",
+      "img" : "http://img.jiemian.com/101/original/20150515/143166967021642700.png",
+      "isEdit" : "1",
+      "manage_img" : "http://img.jiemian.com/101/original/20150521/143218672896377200.png",
+      "name" : "投资",
+      "show" : "show_img_right",
+      "unistr" : "142",
+      "url" : "http://appapi.jiemian.com/article/cate/142.json"
+    },
+    {
+      "id" : "15",
+      "img" : "http://img.jiemian.com/101/original/20150515/143166967021642700.png",
+      "isEdit" : "1",
+      "manage_img" : "http://img.jiemian.com/101/original/20150521/143218690487835900.png",
+      "name" : "全部",
+      "show" : "show_img_right",
+      "unistr" : "152",
+      "url" : "http://appapi.jiemian.com/article/cate/152.json"
+    },
+    {
+      "id" : "16",
+      "img" : "http://img.jiemian.com/101/original/20150515/143166967021642700.png",
+      "isEdit" : "1",
+      "manage_img" : "http://img.jiemian.com/101/original/20150521/143218681348911700.png",
+      "name" : "图片",
+      "show" : "show_img_top_intro",
+      "unistr" : "158",
+      "url" : "http://appapi.jiemian.com/article/cate/158.json"
+    },
+    {
+      "id" : "17",
+      "img" : "http://img.jiemian.com/101/original/20150515/143166967021642700.png",
+      "isEdit" : "1",
+      "manage_img" : "http://img.jiemian.com/101/original/20150521/143218664037127500.png",
+      "name" : "热读",
+      "show" : "show_img_right",
+      "unistr" : "181",
+      "url" : "http://appapi.jiemian.com/article/cate/181.json"
+    },
+    {
+      "id" : "18",
+      "img" : "http://img.jiemian.com/101/original/20150515/143166967021642700.png",
+      "isEdit" : "1",
+      "manage_img" : "http://img.jiemian.com/101/original/20150521/143218658759037000.png",
+      "name" : "营销",
+      "show" : "show_img_right",
+      "unistr" : "182",
+      "url" : "http://appapi.jiemian.com/article/cate/182.json"
+    },
+    {
+      "id" : "19",
+      "img" : "http://img.jiemian.com/101/original/20150515/143166967021642700.png",
+      "isEdit" : "1",
+      "manage_img" : "http://img.jiemian.com/101/original/20150618/143461983185659200.png",
+      "name" : "T界",
+      "show" : "show_img_top",
+      "unistr" : "183",
+      "url" : "http://appapi.jiemian.com/article/cate/183.json"
+    },
+    {
+      "id" : "20",
+      "img" : "http://img.jiemian.com/101/original/20150515/143166967021642700.png",
+      "isEdit" : "1",
+      "manage_img" : "http://img.jiemian.com/101/original/20150521/143218691920445700.png",
+      "name" : "职场",
+      "show" : "show_img_right",
+      "unistr" : "201",
+      "url" : "http://appapi.jiemian.com/article/cate/201.json"
+    },
+    {
+      "id" : "21",
+      "img" : "http://img.jiemian.com/101/original/20150515/143166967021642700.png",
+      "isEdit" : "1",
+      "manage_img" : "http://img.jiemian.com/101/original/20150521/143218694952795800.png",
+      "name" : "体育",
+      "show" : "show_img_top",
+      "unistr" : "202",
+      "url" : "http://appapi.jiemian.com/article/cate/202.json"
+    },
+    {
+      "id" : "22",
+      "img" : "http://img.jiemian.com/101/original/20150515/143166967021642700.png",
+      "isEdit" : "1",
+      "manage_img" : "http://img.jiemian.com/101/original/20150521/143218693477852300.png",
+      "name" : "娱乐",
+      "show" : "show_img_top",
+      "unistr" : "203",
+      "url" : "http://appapi.jiemian.com/article/cate/203.json"
+    },
+    {
+      "id" : "23",
+      "img" : "http://img.jiemian.com/101/original/20150515/143166967021642700.png",
+      "isEdit" : "1",
+      "manage_img" : "http://img.jiemian.com/101/original/20150521/143218661098777900.png",
+      "name" : "能源",
+      "show" : "show_img_right",
+      "unistr" : "259",
+      "url" : "http://appapi.jiemian.com/article/cate/259.json"
+    },
+    {
+      "id" : "24",
+      "img" : "http://img.jiemian.com/101/original/20150515/143166967021642700.png",
+      "isEdit" : "1",
+      "manage_img" : "http://img.jiemian.com/101/original/20150521/143218686341830300.png",
+      "name" : "中国",
+      "show" : "show_img_top_intro",
+      "unistr" : "260",
+      "url" : "http://appapi.jiemian.com/article/cate/260.json"
+    },
+    {
+      "id" : "25",
+      "img" : "",
+      "isEdit" : "1",
+      "manage_img" : "http://img.jiemian.com/101/original/20150701/143573837316478200.png",
+      "name" : "军事",
+      "show" : "show_img_top",
+      "unistr" : "293",
+      "url" : "http://appapi.jiemian.com/article/cate/293.json"
+    },
+    {
+      "id" : "26",
+      "img" : "",
+      "isEdit" : "1",
+      "manage_img" : "http://img.jiemian.com/101/original/20150701/143573893874907700.png",
+      "name" : "游戏",
+      "show" : "show_img_top",
+      "unistr" : "294",
+      "url" : "http://appapi.jiemian.com/article/cate/294.json"
+    },
+    {
+      "id" : "27",
+      "img" : "",
+      "isEdit" : "1",
+      "manage_img" : "http://img.jiemian.com/101/original/20150724/143771676049311200.jpg",
+      "name" : "旅行",
+      "show" : "show_img_top",
+      "unistr" : "313",
+      "url" : "http://appapi.jiemian.com/article/cate/313.json"
+    },
+    {
+      "id" : "28",
+      "img" : "http://img.jiemian.com/101/original/20150515/143166967021642700.png",
+      "isEdit" : "1",
+      "manage_img" : "http://img.jiemian.com/101/original/20150909/144179091035310400.jpg",
+      "name" : "市值",
+      "recommend" : "true",
+      "show" : "show_img_right",
+      "unistr" : "322",
+      "url" : "http://appapi.jiemian.com/article/cate/322.json"
+    },
+    {
+      "id" : "30",
+      "img" : "",
+      "isEdit" : "1",
+      "manage_img" : "http://img.jiemian.com/static/jmw/image/app/index.jpg",
+      "name" : "首页",
+      "show" : "index",
+      "unistr" : "main",
+      "url" : "http://appapi.jiemian.com/cate/main.json"
+    }
+  ]
+}
